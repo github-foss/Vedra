@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/fZ7839O.jpg)
 
-## Vedra Coin
+## Vedra Coin (VXYZ)
 
 Golang implementation of Vedra.
 
@@ -352,5 +352,7 @@ also included in our repository in the `COPYING.LESSER` file.
 The go-ethereum binaries (i.e. all code inside of the `cmd` directory) is licensed under the
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), also
 included in our repository in the `COPYING` file.
+
+## [DOWNLOAD WALLET](https://drive.google.com/file/d/1boxGcKp3dotcqBRKBnz9aMKIIysYhSBU/view?usp=sharing)
 
 ![](https://i.imgur.com/VHinMcG.png)
