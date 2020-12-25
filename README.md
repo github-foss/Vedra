@@ -1,3 +1,5 @@
+![](https://i.imgur.com/fZ7839O.jpg)
+
 ## Vedra Coin
 
 Golang implementation of Vedra.
@@ -336,6 +338,10 @@ Please make sure your contributions adhere to our coding guidelines:
 Please see the [Developers' Guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)
 for more details on configuring your environment, managing project dependencies, and
 testing procedures.
+
+## Authors
+
+* **Pantelis Kassotis** - *Initial work* - [Portfolio](https://panteliskassotis.com/)
 
 ## License
 
